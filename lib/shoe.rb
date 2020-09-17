@@ -11,7 +11,6 @@ class Shoe
 
   def size=(size)
     @size = size 
-    BRANDS.size = 3
   end 
 
   def cobble
